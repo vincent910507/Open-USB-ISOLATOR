@@ -1,9 +1,9 @@
-#Open USB ISOLATOR
+# Open USB ISOLATOR
 Open Source USB Isolator Hardware
 
-##PCB
-Layer:4
-Thickness:1.6MM
-Impedance Control:JLC04161H-3313
+## PCB
+Layer:4  
+Thickness:1.6mm  
+Impedance Control:JLC04161H-3313  
 
 
